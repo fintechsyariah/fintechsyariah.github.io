@@ -224,7 +224,7 @@
     </div>
     <div class="row">
         <div class="col-md-12">
-        <div class="col-xs-6 col-md-3">
+            <div class="col-xs-6 col-md-3">
                 <a href="https://www.kerjasama.com/" target="_blank" class="thumbnail">
                     <img src="img/logo/kerjasama.jpg" alt="">
                 </a>
@@ -234,14 +234,38 @@
                     <img src="img/logo/lariba.jpg" alt="">
                 </a>
             </div>
-            <!-- <div class="col-xs-6 col-md-3">
-                <a href="https://www.angsur.id/" target="_blank" class="thumbnail">
-                    <img src="img/logo/angsur.jpg" alt="">
+            <div class="col-xs-6 col-md-3">
+                <a href="https://www.bnisyariah.co.id/" target="_blank" class="thumbnail">
+                    <img src="img/logo/bnis.jpg" alt="">
                 </a>
-            </div> -->
+            </div>
+            <div class="col-xs-6 col-md-3">
+                <a href="https://bsalam.id/" target="_blank" class="thumbnail">
+                    <img src="img/logo/bsalam.jpg" alt="">
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+            <div class="col-xs-6 col-md-3">
+                <a href="https://qazwa.id/" target="_blank" class="thumbnail">
+                    <img src="img/logo/qazwa.jpg" alt="">
+                </a>
+            </div>
             <!-- <div class="col-xs-6 col-md-3">
-                <a href="http://www.shariamarket.com" target="_blank" class="thumbnail">
-                    <img src="img/logo/shariamarket.jpg" alt="">
+                <a href="http://laribaconsulting.com/" target="_blank" class="thumbnail">
+                    <img src="img/logo/lariba.jpg" alt="">
+                </a>
+            </div>
+            <div class="col-xs-6 col-md-3">
+                <a href="https://www.bnisyariah.co.id/" target="_blank" class="thumbnail">
+                    <img src="img/logo/bnis.jpg" alt="">
+                </a>
+            </div>
+            <div class="col-xs-6 col-md-3">
+                <a href="https://bsalam.id/" target="_blank" class="thumbnail">
+                    <img src="img/logo/bsalam.jpg" alt="">
                 </a>
             </div> -->
         </div>
