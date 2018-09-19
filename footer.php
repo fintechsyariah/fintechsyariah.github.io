@@ -8,13 +8,14 @@
                             <p><a href="http://fintechsyariah.org"><img src="img/logofintechtrans.png" alt=""></a></p>
                         </div>
                         <div class="row">
-                            <p>Menara MTH Lantai 10, Jl. MT Haryono Kav. 23, Tebet Timur, Jakarta Selatan.</p>
+                            <!-- <p>Menara MTH Lantai 10, Jl. MT Haryono Kav. 23, Tebet Timur, Jakarta Selatan.</p> -->
+                            <p>Mampang Square ruko B5 lantai 4. (Komplek Wisma Umroh NRA) Jl. Mampang Prapatan Raya No. 88, Jakarta Selatan 12790</p>
                         </div>
                     </div>
                         <div class="col-md-3">
                         <div class="row">
                             <h4>Kontak</h4>
-                            <p>(022) 812 345 67</p>
+                            <p>021-22793165</p>
                             <p>admin@fintechsyariah.org</p>
                         </div>
                     </div>
