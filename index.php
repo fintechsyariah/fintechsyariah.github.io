@@ -253,21 +253,21 @@
                     <img src="img/logo/qazwa.jpg" alt="">
                 </a>
             </div>
-            <!-- <div class="col-xs-6 col-md-3">
-                <a href="http://laribaconsulting.com/" target="_blank" class="thumbnail">
-                    <img src="img/logo/lariba.jpg" alt="">
+            <div class="col-xs-6 col-md-3">
+                <a href="https://www.umrohnesia.co.id/" target="_blank" class="thumbnail">
+                    <img src="img/logo/umrohnesia.jpg" alt="">
                 </a>
             </div>
             <div class="col-xs-6 col-md-3">
-                <a href="https://www.bnisyariah.co.id/" target="_blank" class="thumbnail">
-                    <img src="img/logo/bnis.jpg" alt="">
+                <a href="http://www.syariahsaham.com/" target="_blank" class="thumbnail">
+                    <img src="img/logo/syariahsaham.jpg" alt="">
                 </a>
             </div>
             <div class="col-xs-6 col-md-3">
-                <a href="https://bsalam.id/" target="_blank" class="thumbnail">
-                    <img src="img/logo/bsalam.jpg" alt="">
+                <a href="" target="_blank" class="thumbnail">
+                    <img src="img/logo/initiate.jpg" alt="">
                 </a>
-            </div> -->
+            </div>
         </div>
     </div>
 </div>
