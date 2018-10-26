@@ -287,11 +287,11 @@
                     <img src="img/logo/mobilima.jpg" alt="">
                 </a>
             </div>
-            <!-- <div class="col-xs-6 col-md-3">
-                <a href="" target="_blank" class="thumbnail">
-                    <img src="img/logo/initiate.jpg" alt="">
+            <div class="col-xs-6 col-md-3">
+                <a href="https://thegreatcoin.com/" target="_blank" class="thumbnail">
+                    <img src="img/logo/greatergold.jpg" alt="">
                 </a>
-            </div> -->
+            </div>
         </div>
     </div>
 </div>
