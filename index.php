@@ -294,6 +294,30 @@
             </div>
         </div>
     </div>
+    <div class="row">
+        <div class="col-md-12">
+            <div class="col-xs-6 col-md-3">
+                <a href="https://www.mudahumroh.com/" target="_blank" class="thumbnail">
+                    <img src="img/logo/mudahumroh.jpg" alt="">
+                </a>
+            <!-- </div>
+            <div class="col-xs-6 col-md-3">
+                <a href="https://www.jualbelikredit.id" target="_blank" class="thumbnail">
+                    <img src="img/logo/jbk.jpg" alt="">
+                </a>
+            </div>
+            <div class="col-xs-6 col-md-3">
+                <a href="https://mobilima.com/" target="_blank" class="thumbnail">
+                    <img src="img/logo/mobilima.jpg" alt="">
+                </a>
+            </div>
+            <div class="col-xs-6 col-md-3">
+                <a href="https://thegreatcoin.com/" target="_blank" class="thumbnail">
+                    <img src="img/logo/greatergold.jpg" alt="">
+                </a>
+            </div> -->
+        </div>
+    </div>
 </div>
     
 <!-- Upcoming Event -->
