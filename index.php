@@ -119,7 +119,7 @@
                 </a>
             </div>
             <div class="col-xs-6 col-md-3">
-                <a href="https://www.alamisharia.co/" target="_blank" class="thumbnail">
+                <a href="https://www.alamisharia.co.id/" target="_blank" class="thumbnail">
                     <img src="img/logo/alami.jpg" alt="">
                 </a>
             </div>
